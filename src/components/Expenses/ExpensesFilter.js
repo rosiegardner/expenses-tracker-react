@@ -1,4 +1,5 @@
 import React from 'react';
+import '.././../styles/Expenses/ExpensesFilter.css'
 
 const ExpensesFilter = (props) => {
   const dropdownHandler = (event) => {
