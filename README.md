@@ -23,7 +23,6 @@ This will allow a user to add an expense with date of purchase, and retrieve dat
 * `https://github.com/rosiegardner/expenses-tracker-react.git`
 * Navigate to top-level of directory.
 * Open VScode or Text Editor of your choosing. 
-* Read `log.md`
 * In terminal run:
 * `npm install`
 * `npm run start`
